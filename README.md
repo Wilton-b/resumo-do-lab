@@ -1,2 +1,1 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Eu me chamo Wilton trabalho na area de  TI como aprendiz, e ja sou um pouco familiariado com o Azure e outros serviços da Microsofft e em breve planejo fazer a prova de Azure Fundamentals do Microsoft Learn. Nesse Lab eu aprendi mais afundo a diferença de nuvem privada, hibrida e publica, aprendi tambem o que é OpEx e CapEx.
