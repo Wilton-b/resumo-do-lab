@@ -2,3 +2,4 @@ Eu me chamo Wilton trabalho na area de  TI como aprendiz, e ja sou um pouco fami
 Nesse modulo eu aprendi os conceitos e beneficios da computaçao em nuvem como elasticidade, Escabilidade, entre outros.
 No outro modulo eu aprendi sobre SaaS PaaS IaaS, entendendo qual as diferenças e responsabilidade.
 Nessa modulo aprendi sobre containers azure, VMAS e VNET/rede.
+Nessa parte eu aprendi sobre armazenamento e os seus tipos, como migrar dados e etc...
