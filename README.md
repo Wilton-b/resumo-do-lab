@@ -4,3 +4,4 @@ No outro modulo eu aprendi sobre SaaS PaaS IaaS, entendendo qual as diferenças 
 Nessa modulo aprendi sobre containers azure, VMAS e VNET/rede.
 Nessa parte eu aprendi sobre armazenamento e os seus tipos, como migrar dados e etc...
 Aprendi sobre permissões, segurança de rede, dados e etc... Alem de governança e confiança.
+aprendi a calcular os preços e ausar a TCO junto da calculadora 
